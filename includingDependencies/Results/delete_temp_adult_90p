@@ -1,0 +1,6 @@
+Load, Sort, Deleted bitset computation, Update ASTree, Prune ASTree
+5 , 0 , 252 , 0 , 4 , 2
+0 , 0 , 555 , 1 , 2 , 1
+0 , 0 , 1055 , 1 , 2 , 3
+0 , 1 , 5478 , 4 , 3 , 1
+0 , 0 , 10156 , 7 , 3 , 1

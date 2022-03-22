@@ -1,0 +1,1 @@
+split --additional-suffix ".csv" -d -l 10 iris_num.csv iris_10_insert

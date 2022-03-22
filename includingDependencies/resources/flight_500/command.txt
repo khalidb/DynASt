@@ -1,0 +1,1 @@
+split --additional-suffix ".csv" -d -l 500 num_flight_1k.csv flight_500_insert_
