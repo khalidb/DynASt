@@ -1,1 +1,0 @@
-This folder contains utility operations that are used by DynASt

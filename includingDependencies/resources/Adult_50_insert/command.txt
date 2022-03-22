@@ -1,1 +1,0 @@
-split --additional-suffix ".csv" -d -l 50 num_adult.csv adult_50_insert_

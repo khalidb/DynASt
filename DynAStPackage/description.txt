@@ -1,1 +1,0 @@
-You find in this directory the main packages of Dynast

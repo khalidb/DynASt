@@ -1,1 +1,0 @@
-This folder contains the source code of DynAST as well as the packaages on which DynASt depends including the source code of Metanome
