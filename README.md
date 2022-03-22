@@ -13,7 +13,7 @@ The main Java class that needs to be edited to specify the input dataset is *Inc
 * file: the path of the dataset. 
 * result_file: the name of the results in which to write information about the performance of DynASt
 * batch_size: the size of the batch to consider
-* number_of_batches: the number of batches to process before terminating. If the number of batches exceeds the size of the file, then the processing will terminates as soon as the last batch of the file is processed.* number_of_batches: the number of batches to process before terminating. If the number of batches exceeds the size of the file, then the processing will terminates as soon as the last batch of the file is processed.
+* number_of_batches: the number of batches to process before terminating. If the number of batches exceeds the size of the file, then the processing will terminates as soon as the last batch of the file is processed.
 =======
 This repository contains the source code of DynAST, a tool for the discovery and mainteannce of agreesets against dynamic datasets.
 
