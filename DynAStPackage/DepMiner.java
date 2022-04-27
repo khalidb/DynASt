@@ -20,6 +20,10 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 
+/*
+This is an implepdentation of DepMiner
+*/
+
 public class DepMiner {
 	
 	//Column Names

@@ -1,5 +1,9 @@
 package fr.dauphine.lamsade.khalid.dynast;
 
+/*
+This is the main class that is used for the incremental computation of agree-sets
+*/
+
 import it.unimi.dsi.fastutil.objects.ObjectArrayList;
 
 import java.util.ArrayList;

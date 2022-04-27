@@ -38,6 +38,10 @@ import org.apache.lucene.util.OpenBitSet;
 
 // @author Khalid Belhajjame
 
+/*
+This class implement the incremental discovery of functional dependencies by relying on incremental computation of agree-sets
+*/
+
  
 
 public class IncrementalFDep {
