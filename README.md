@@ -15,6 +15,8 @@ The main Java class that need to be edited to specify the input dataset is *Incr
 * number_of_batches: the number of batches to process before terminating. If the number of batches exceeds the size of the file, then the processing will terminates as soon as the last batch of the file is processed.
 
 
+We also added an incremental implementation of functional dependency discovery that exploit the incremental computation of agree-sets. The main class that can be used for this purpose can be found in the class fr.dauphine.lamsade.khalid.dynast.incrementalFDEP The variable setting for this class is similar to that of IncrementalAgreeSetMaintenance
+
 
 
 
